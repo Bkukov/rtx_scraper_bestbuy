@@ -1,2 +1,3 @@
-# rtx_scraper_bestbuy
-Selenium based scraper for best buy products.
+# Web Scraper Example
+
+Developed a little web scraper just to see what the complexity would be to create a bot that monitors a site.
